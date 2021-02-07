@@ -25,3 +25,37 @@ Find me on
 <a href="https://twitter.com/KPasupulatei"><img alt="Twitter" src="/social-icons/twitter.png" height="32px" width="32px"/></a>
 
 <br />
+### Featured Projects:
+
+#### **ScribbleBow**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TarangGarlapally&repo=scribblebow&theme=dark)](https://github.com/TarangGarlapally/scribblebow)
+
+A web application that allows content creators to read,
+collaborate, write and share their works with the world. A social
+media platform for writers.
+
+* Users will be able to publish 7 types of content including _**Audio**_ besides  written content
+* Users will be able to _**collaborate**_ with each other
+* Can _**continue listening audio content even on navigating throughout the app**_
+* _**Users get notified**_ of events like likes, comments, and collab invites
+* _And many features to come_
+* [Check it out here!](https://scribblebow.web.app/)
+
+
+#### **Password Generator API (contributer)**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TarangGarlapally&repo=PasswordGeneratorAPI&theme=dark)](https://github.com/TarangGarlapally/PasswordGeneratorAPI)
+
+I contributed ssome algorithms to this project.
+Generates a strong password by selecting 1 out of many
+implemented algorithms at random taking a name and a date.
+* Use it for your apps: https://passwordgenerator-api.herokuapp.com/
+
+Would you like to contribute more _**password generating algorithms**_ to randomize it even more?
+
+_Just a fork and a PR away!_
+
+
+
+
