@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div>
+<img align = "right" alt="Tarang's Bitmoji" src="/Picture1.png" width="250px" height="auto"></img> 
+</div>
+
+
 #### 📖 I'm an undergraduate student studying **Computer Science and Engineering** 💻 at VNRVJIET 
 
 - I can work with languages
