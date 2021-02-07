@@ -15,7 +15,7 @@
 <br />
 
 ### 📈 My GitHub Stats!
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik193&hide=stars&count_private=true&show_icons=true&theme=white)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik193&hide=stars&count_private=true&show_icons=true&theme=dark)
 
 Find me on
 
