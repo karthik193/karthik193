@@ -6,7 +6,7 @@
 
 #### 📖 I'm an undergraduate student studying **Computer Science and Engineering** 💻 at VNRVJIET 
 
-- I can work with languages
+- 👨‍💻I can work with languages
   * Python
   * C++
   * Java
@@ -48,7 +48,7 @@ media platform for writers.
 * [Check it out here!](https://scribblebow.web.app/)
 
 
-#### **Password Generator API (contributer)**
+#### **Password Generator API (contributor)**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TarangGarlapally&repo=PasswordGeneratorAPI&theme=dark)](https://github.com/TarangGarlapally/PasswordGeneratorAPI)
 
