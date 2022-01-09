@@ -62,5 +62,10 @@ Would you like to contribute more _**password generating algorithms**_ to random
 _Just a fork and a PR away!_
 
 
+#### **VulgarWord Detection API**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthik193&repo=VulgarWord-Detection-API&theme=dark)](https://github.com/karthik193/VulgarWord-Detection-API)
+
+It is a API which detects if a given text has toxic words.
+* Use it for your apps: https://vulgar-word-detection.herokuapp.com/docs
 
